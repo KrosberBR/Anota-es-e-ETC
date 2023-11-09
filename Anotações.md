@@ -29,3 +29,8 @@ _**git commit -> Criar um commit**_
 _**git status -> Exibe arquivos modified, unmodified e staged**_
 
 _**git config -> Define valores de configuração do usuário**_
+
+
+
+
+
